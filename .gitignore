@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environment
+.venv/
+
+# Environment variables / secrets
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Don't upload this folder
+llm-calling/
