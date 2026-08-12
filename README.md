@@ -1,6 +1,6 @@
 # Blood Work Analyzer
 
-A Streamlit-powered web app that analyzes blood work reports using a two-stage LLM pipeline and provides personalized health summaries with Indian diet recommendations.
+A Streamlit-powered web site that analyzes blood work reports using a two-stage LLM pipeline and provides personalized health summaries with Indian diet recommendations.
 
 **Live Demo:** [blood-work-analysis-sp.streamlit.app](https://blood-work-analysis-sp.streamlit.app/)
 
@@ -156,4 +156,4 @@ This project was developed as part of the [Codebasics](https://codebasics.io/) A
 
 ## License
 
-This project is for educational and demonstration purposes.
+This project is for demonstration purposes.
