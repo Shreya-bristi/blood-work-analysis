@@ -2,8 +2,6 @@
 
 A Streamlit-powered web site that analyzes blood work reports using a two-stage LLM pipeline and provides personalized health summaries with Indian diet recommendations.
 
-**Live Demo:** [blood-work-analysis-sp.streamlit.app](https://blood-work-analysis-sp.streamlit.app/)
-
 ![Blood Work Analyzer](img.png)
 
 ---
